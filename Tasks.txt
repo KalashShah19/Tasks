@@ -1,0 +1,19 @@
+Music Player
+    Manage PLaylists
+    Upload Songs
+    Desgin
+    Download Audio from Youtube Link ( Python or JS )
+
+Rent / Price Prediction
+    Create new Dataset using Python - search and extract real data from 99acres and magicbricks,
+    Form Validation - Don't Allow bathrooms more than BHK + 1, etc
+
+Property Recommendatin
+    Decide which model to use?
+    Check if Dataset is required or not,
+        if yes then find it,
+        else collect preferences and suggest the matching properties.
+    
+Personalized Notifications
+    When new Property is listed, send the property data on python Flask endpoint.
+    Get preferences of users and send notifications to the matching preference users on RabbitMQ.
